@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="b082ea93-025e-48aa-85a2-c7580bb069eb" discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="validateGetUserTest" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="b082ea93-025e-48aa-85a2-c7580bb069ebfileName">validateGetUserTest</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:properties/><con:reportParameters/></con:testCase>

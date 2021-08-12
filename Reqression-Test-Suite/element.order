@@ -1,0 +1,4 @@
+ValidateCreateNewUser.xml
+validateGetUserTest.xml
+validateUpdateUserTest.xml
+NegativeUpdateUserTest.xml

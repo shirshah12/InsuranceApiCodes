@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="2830a35e-f6d5-402b-9499-53534f57f93a" name="negativeTestSuite" xmlns:con="http://eviware.com/soapui/config"><con:description>The test suite generated for the REST service [CreateAccount]</con:description><con:settings><con:setting id="2830a35e-f6d5-402b-9499-53534f57f93afileName">negativeTestSuite</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>

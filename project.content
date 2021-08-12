@@ -1,0 +1,8 @@
+CreateAccount\user.xml
+CreateAccount\%2Fapi%2Fv1%2Fuser%2F.xml
+CreateAccount\2.xml
+Reqression-Test-Suite\ValidateCreateNewUser.xml
+Reqression-Test-Suite\validateGetUserTest.xml
+Reqression-Test-Suite\validateUpdateUserTest.xml
+Reqression-Test-Suite\NegativeUpdateUserTest.xml
+negativeTestSuite\user-Test-Case.xml

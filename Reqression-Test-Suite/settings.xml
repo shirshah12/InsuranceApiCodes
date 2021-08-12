@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="2bf3dc2b-ad1e-4f93-953c-dd63a8da8593" name="Reqression Test Suite" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="2bf3dc2b-ad1e-4f93-953c-dd63a8da8593fileName">Reqression-Test-Suite</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
